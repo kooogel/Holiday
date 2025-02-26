@@ -1,5 +1,5 @@
 {
-    "name":         "checkdomain/holiday",
+    "name":         "kooogel/holiday",
     "description":  "Checkdomain/Holiday provides a simple class to get holidays for a specified country",
     "keywords":     ["holiday"],
     "type":         "library",
